@@ -1,0 +1,624 @@
+[16-Aug-2016 08:44:17 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/Cl/DBclass.php on line 14
+[16-Aug-2016 09:17:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 119
+[16-Aug-2016 09:17:23 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 120
+[16-Aug-2016 09:17:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 131
+[16-Aug-2016 09:17:23 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 132
+[16-Aug-2016 09:17:23 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Email and Password are mismatch' in /home/citizenb875/public_html/social_login/Cl/User.php:138
+Stack trace:
+#0 /home/citizenb875/public_html/social_login/facebook.php(64): Cl_User->fb_login(Array)
+#1 {main}
+  thrown in /home/citizenb875/public_html/social_login/Cl/User.php on line 138
+[16-Aug-2016 09:19:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 119
+[16-Aug-2016 09:19:02 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 120
+[16-Aug-2016 09:19:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 131
+[16-Aug-2016 09:19:02 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 132
+[16-Aug-2016 09:19:02 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Email and Password are mismatch' in /home/citizenb875/public_html/social_login/Cl/User.php:138
+Stack trace:
+#0 /home/citizenb875/public_html/social_login/facebook.php(64): Cl_User->fb_login(Array)
+#1 {main}
+  thrown in /home/citizenb875/public_html/social_login/Cl/User.php on line 138
+[16-Aug-2016 09:21:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 119
+[16-Aug-2016 09:21:07 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 120
+[16-Aug-2016 09:21:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 131
+[16-Aug-2016 09:21:07 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 132
+[16-Aug-2016 09:21:07 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Email and Password are mismatch' in /home/citizenb875/public_html/social_login/Cl/User.php:138
+Stack trace:
+#0 /home/citizenb875/public_html/social_login/facebook.php(64): Cl_User->fb_login(Array)
+#1 {main}
+  thrown in /home/citizenb875/public_html/social_login/Cl/User.php on line 138
+[16-Aug-2016 09:21:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 119
+[16-Aug-2016 09:21:09 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 120
+[16-Aug-2016 09:21:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 131
+[16-Aug-2016 09:21:09 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/citizenb875/public_html/social_login/Cl/User.php on line 132
+[16-Aug-2016 09:21:09 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Exception' with message 'Email and Password are mismatch' in /home/citizenb875/public_html/social_login/Cl/User.php:138
+Stack trace:
+#0 /home/citizenb875/public_html/social_login/facebook.php(64): Cl_User->fb_login(Array)
+#1 {main}
+  thrown in /home/citizenb875/public_html/social_login/Cl/User.php on line 138
+[18-Aug-2016 14:39:53 Asia/Jakarta] PHP Warning:  include(/home/citizenb875/public_html/social_login/content): failed to open stream: No such device in /home/citizenb875/public_html/social_login/home.php on line 6
+[18-Aug-2016 14:39:53 Asia/Jakarta] PHP Warning:  include(): Failed opening 'content/' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/home.php on line 6
+[18-Aug-2016 14:40:30 Asia/Jakarta] PHP Warning:  include(/home/citizenb875/public_html/social_login/content): failed to open stream: No such device in /home/citizenb875/public_html/social_login/home.php on line 6
+[18-Aug-2016 14:40:30 Asia/Jakarta] PHP Warning:  include(): Failed opening 'content/' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/home.php on line 6
+[18-Aug-2016 14:41:06 Asia/Jakarta] PHP Warning:  include(module/posting/control.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/content/index.php on line 7
+[18-Aug-2016 14:41:06 Asia/Jakarta] PHP Warning:  include(module/posting/control.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/content/index.php on line 7
+[18-Aug-2016 14:41:06 Asia/Jakarta] PHP Warning:  include(): Failed opening 'module/posting/control.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/content/index.php on line 7
+[18-Aug-2016 14:48:30 Asia/Jakarta] PHP Warning:  require_once(nicePaging.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 38
+[18-Aug-2016 14:48:30 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'nicePaging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 38
+[18-Aug-2016 15:05:20 Asia/Jakarta] PHP Warning:  require_once(nicePaging.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 38
+[18-Aug-2016 15:05:20 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'nicePaging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 38
+[18-Aug-2016 15:05:54 Asia/Jakarta] PHP Warning:  require_once(nicePaging.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 38
+[18-Aug-2016 15:05:54 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'nicePaging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 38
+[18-Aug-2016 15:07:42 Asia/Jakarta] PHP Warning:  require_once(nicePaging.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 38
+[18-Aug-2016 15:07:42 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'nicePaging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 38
+[18-Aug-2016 15:08:35 Asia/Jakarta] PHP Warning:  require_once(nicePaging.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 38
+[18-Aug-2016 15:08:35 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'nicePaging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 38
+[18-Aug-2016 15:08:44 Asia/Jakarta] PHP Fatal error:  Class 'nicePaging' not found in /home/citizenb875/public_html/social_login/content/index.php on line 85
+[18-Aug-2016 15:13:31 Asia/Jakarta] PHP Fatal error:  Class 'nicePaging' not found in /home/citizenb875/public_html/social_login/content/index.php on line 85
+[18-Aug-2016 15:13:38 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:13:38 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:13:38 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 15:13:38 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:13:38 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:13:38 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 15:13:42 Asia/Jakarta] PHP Fatal error:  Class 'nicePaging' not found in /home/citizenb875/public_html/social_login/content/index.php on line 85
+[18-Aug-2016 15:13:44 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:13:44 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:13:44 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 15:13:44 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:13:44 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:13:44 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 15:14:07 Asia/Jakarta] PHP Fatal error:  Class 'nicePaging' not found in /home/citizenb875/public_html/social_login/content/index.php on line 85
+[18-Aug-2016 15:14:09 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:14:09 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:14:09 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 15:14:09 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:14:09 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:14:09 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 15:15:30 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:15:30 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:15:30 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 15:15:30 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:15:30 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:15:30 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 15:15:31 Asia/Jakarta] PHP Fatal error:  Class 'nicePaging' not found in /home/citizenb875/public_html/social_login/content/index.php on line 85
+[18-Aug-2016 15:15:34 Asia/Jakarta] PHP Fatal error:  Class 'nicePaging' not found in /home/citizenb875/public_html/social_login/content/index.php on line 85
+[18-Aug-2016 15:15:36 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:15:36 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:15:36 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 15:15:36 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:15:36 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:15:36 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 15:15:40 Asia/Jakarta] PHP Fatal error:  Class 'nicePaging' not found in /home/citizenb875/public_html/social_login/content/index.php on line 85
+[18-Aug-2016 15:15:42 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:15:42 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:15:42 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 15:15:42 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:15:42 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:15:42 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 15:15:44 Asia/Jakarta] PHP Fatal error:  Class 'nicePaging' not found in /home/citizenb875/public_html/social_login/content/index.php on line 85
+[18-Aug-2016 15:15:56 Asia/Jakarta] PHP Fatal error:  Class 'nicePaging' not found in /home/citizenb875/public_html/social_login/content/index.php on line 85
+[18-Aug-2016 15:29:01 Asia/Jakarta] PHP Fatal error:  Class 'nicePaging' not found in /home/citizenb875/public_html/social_login/content/index.php on line 85
+[18-Aug-2016 15:29:44 Asia/Jakarta] PHP Fatal error:  Class 'nicePaging' not found in /home/citizenb875/public_html/social_login/content/index.php on line 85
+[18-Aug-2016 15:29:51 Asia/Jakarta] PHP Warning:  require_once(nicePaging.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 39
+[18-Aug-2016 15:29:51 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'nicePaging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 39
+[18-Aug-2016 15:32:10 Asia/Jakarta] PHP Warning:  require_once(nicePaging.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 39
+[18-Aug-2016 15:32:10 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'nicePaging.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 39
+[18-Aug-2016 15:32:28 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:32:28 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:32:28 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 15:32:28 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:32:28 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:32:28 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 15:32:28 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 15:34:17 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:34:17 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:34:17 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 15:34:17 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:34:17 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:34:17 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 15:34:17 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 15:34:28 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:34:28 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:34:28 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 15:34:28 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:34:28 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:34:28 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 15:34:28 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 15:34:57 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:34:57 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:34:57 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 15:34:57 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:34:57 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:34:57 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 15:34:59 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:34:59 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:34:59 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 15:34:59 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:34:59 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:34:59 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 15:34:59 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 15:41:14 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:41:14 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:41:14 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 15:41:14 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:41:14 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:41:14 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 15:41:14 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 15:41:23 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:41:23 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:41:23 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 15:41:23 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:41:23 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:41:23 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 15:41:35 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:41:35 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:41:35 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 15:41:35 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:41:35 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:41:35 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 15:41:37 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:41:37 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:41:37 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 15:41:37 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:41:37 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:41:37 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 15:41:37 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 15:45:15 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:45:15 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:45:15 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 15:45:15 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:45:15 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:45:15 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 15:45:15 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 15:45:20 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:45:20 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:45:20 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 15:45:20 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:45:20 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:45:20 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 15:45:22 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:45:22 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:45:22 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 15:45:22 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:45:22 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:45:22 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 15:45:22 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 15:49:46 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:49:46 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:49:46 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 15:49:46 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:49:46 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:49:46 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 15:49:46 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 15:49:59 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:49:59 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:49:59 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 15:49:59 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:49:59 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:49:59 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 15:49:59 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 15:51:25 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:51:25 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 15:51:25 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 15:51:25 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:51:25 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 15:51:25 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 15:51:25 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 15:51:33 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:51:33 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:51:33 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 15:51:33 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:51:33 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:51:33 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 15:55:19 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:55:19 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:55:19 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 15:55:19 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:55:19 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:55:19 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 15:58:34 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:58:34 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:58:34 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 15:58:34 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:58:34 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:58:34 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 15:59:34 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:59:34 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 15:59:34 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 15:59:34 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:59:34 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 15:59:34 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 16:00:33 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 193
+[18-Aug-2016 16:00:33 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 193
+[18-Aug-2016 16:00:33 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 194
+[18-Aug-2016 16:00:33 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 211
+[18-Aug-2016 16:00:33 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 211
+[18-Aug-2016 16:00:33 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 212
+[18-Aug-2016 16:01:09 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 193
+[18-Aug-2016 16:01:09 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 193
+[18-Aug-2016 16:01:09 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 194
+[18-Aug-2016 16:01:09 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 211
+[18-Aug-2016 16:01:09 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 211
+[18-Aug-2016 16:01:09 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 212
+[18-Aug-2016 16:01:54 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 16:01:54 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 16:01:54 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 16:01:54 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 16:01:54 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 16:01:54 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 16:01:54 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 16:02:01 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 16:02:01 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 16:02:01 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 16:02:01 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 16:02:01 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 16:02:01 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 16:02:12 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 16:02:12 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 16:02:12 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 16:02:12 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 16:02:12 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 16:02:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 16:02:12 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 16:02:21 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 16:02:21 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 16:02:21 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 16:02:21 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 16:02:21 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 16:02:21 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[18-Aug-2016 16:02:23 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 16:02:23 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 16:02:23 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 16:02:23 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 16:02:23 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 16:02:23 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 16:02:23 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 16:03:19 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 16:03:19 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[18-Aug-2016 16:03:19 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[18-Aug-2016 16:03:19 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 16:03:19 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[18-Aug-2016 16:03:19 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[18-Aug-2016 16:03:19 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[18-Aug-2016 16:03:57 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 16:03:57 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[18-Aug-2016 16:03:57 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[18-Aug-2016 16:03:57 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 16:03:57 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[18-Aug-2016 16:03:57 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[19-Aug-2016 09:20:36 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[19-Aug-2016 09:20:36 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[19-Aug-2016 09:20:36 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[19-Aug-2016 09:20:36 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[19-Aug-2016 09:20:36 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[19-Aug-2016 09:20:36 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[19-Aug-2016 09:20:36 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[19-Aug-2016 09:37:15 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[19-Aug-2016 09:37:15 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[19-Aug-2016 09:37:15 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[19-Aug-2016 09:37:15 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[19-Aug-2016 09:37:15 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[19-Aug-2016 09:37:15 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[19-Aug-2016 09:37:15 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[19-Aug-2016 09:37:34 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[19-Aug-2016 09:37:34 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[19-Aug-2016 09:37:34 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[19-Aug-2016 09:37:34 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[19-Aug-2016 09:37:34 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[19-Aug-2016 09:37:34 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[19-Aug-2016 09:37:59 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[19-Aug-2016 09:37:59 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[19-Aug-2016 09:37:59 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[19-Aug-2016 09:37:59 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[19-Aug-2016 09:37:59 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[19-Aug-2016 09:37:59 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[19-Aug-2016 09:37:59 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[19-Aug-2016 09:38:09 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[19-Aug-2016 09:38:09 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[19-Aug-2016 09:38:09 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[19-Aug-2016 09:38:09 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[19-Aug-2016 09:38:09 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[19-Aug-2016 09:38:09 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[19-Aug-2016 09:38:12 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[19-Aug-2016 09:38:12 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[19-Aug-2016 09:38:12 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[19-Aug-2016 09:38:12 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[19-Aug-2016 09:38:12 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[19-Aug-2016 09:38:12 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[19-Aug-2016 09:38:12 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[19-Aug-2016 09:38:29 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[19-Aug-2016 09:38:29 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[19-Aug-2016 09:38:29 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[19-Aug-2016 09:38:29 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[19-Aug-2016 09:38:29 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[19-Aug-2016 09:38:29 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[19-Aug-2016 09:39:39 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[19-Aug-2016 09:39:39 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[19-Aug-2016 09:39:39 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[19-Aug-2016 09:39:39 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[19-Aug-2016 09:39:39 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[19-Aug-2016 09:39:39 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[19-Aug-2016 09:39:39 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[20-Aug-2016 08:51:58 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[20-Aug-2016 08:51:58 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[20-Aug-2016 08:51:58 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[20-Aug-2016 08:51:58 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[20-Aug-2016 08:51:58 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[20-Aug-2016 08:51:58 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[20-Aug-2016 08:51:58 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[20-Aug-2016 08:52:17 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 08:52:17 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 08:52:17 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[20-Aug-2016 08:52:17 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 08:52:17 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 08:52:17 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[20-Aug-2016 08:52:24 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[20-Aug-2016 08:52:24 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[20-Aug-2016 08:52:24 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[20-Aug-2016 08:52:24 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[20-Aug-2016 08:52:24 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[20-Aug-2016 08:52:24 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[20-Aug-2016 08:52:24 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[20-Aug-2016 08:52:38 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 08:52:38 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 08:52:38 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[20-Aug-2016 08:52:38 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 08:52:38 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 08:52:38 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[20-Aug-2016 08:54:31 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 08:54:31 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 08:54:31 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[20-Aug-2016 08:54:31 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 08:54:31 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 08:54:31 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[20-Aug-2016 08:54:48 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 08:54:48 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 08:54:48 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[20-Aug-2016 08:54:48 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 08:54:48 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 08:54:48 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[20-Aug-2016 08:54:54 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 08:54:54 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 08:54:54 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[20-Aug-2016 08:54:54 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 08:54:54 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 08:54:54 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[20-Aug-2016 08:54:57 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 08:54:57 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 08:54:57 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[20-Aug-2016 08:54:57 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 08:54:57 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 08:54:57 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[20-Aug-2016 08:55:39 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 08:55:39 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 08:55:39 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[20-Aug-2016 08:55:39 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 08:55:39 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 08:55:39 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[20-Aug-2016 08:56:36 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[20-Aug-2016 08:56:36 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[20-Aug-2016 08:56:36 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[20-Aug-2016 08:56:36 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[20-Aug-2016 08:56:36 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[20-Aug-2016 08:56:36 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[20-Aug-2016 08:56:36 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[20-Aug-2016 09:04:33 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[20-Aug-2016 09:04:33 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[20-Aug-2016 09:04:33 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[20-Aug-2016 09:04:33 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[20-Aug-2016 09:04:33 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[20-Aug-2016 09:04:33 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[20-Aug-2016 09:04:33 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[20-Aug-2016 09:05:28 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[20-Aug-2016 09:05:28 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 89
+[20-Aug-2016 09:05:28 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/nicePaging.php on line 93
+[20-Aug-2016 09:05:28 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[20-Aug-2016 09:05:28 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/nicePaging.php on line 112
+[20-Aug-2016 09:05:28 Asia/Jakarta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 103
+[20-Aug-2016 09:05:28 Asia/Jakarta] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/citizenb875/public_html/social_login/content/index.php on line 149
+[20-Aug-2016 09:05:32 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 09:05:32 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 191
+[20-Aug-2016 09:05:32 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 192
+[20-Aug-2016 09:05:32 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 09:05:32 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 209
+[20-Aug-2016 09:05:32 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 210
+[20-Aug-2016 09:41:37 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:41:37 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:41:37 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:41:37 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:41:37 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:41:37 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 09:41:40 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:41:40 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:41:40 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:41:40 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:41:40 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:41:40 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 09:43:09 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:43:09 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:43:09 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:43:09 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:43:09 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:43:09 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 09:43:28 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:43:28 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:43:28 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:43:28 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:43:28 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:43:28 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 09:44:08 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:44:08 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:44:08 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:44:08 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:44:08 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:44:08 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 09:44:23 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:44:23 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:44:23 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:44:23 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:44:23 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:44:23 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 09:44:29 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:44:29 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:44:29 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:44:29 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:44:29 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:44:29 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 09:44:35 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:44:35 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:44:35 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:44:35 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:44:35 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:44:35 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 09:45:18 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:45:18 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:45:18 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:45:18 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:45:18 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:45:18 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 09:45:45 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:45:45 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:45:45 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:45:45 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:45:45 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:45:45 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 09:45:50 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:45:50 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:45:50 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:45:50 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:45:50 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:45:50 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 09:45:53 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:45:53 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:45:53 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:45:53 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:45:53 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:45:53 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 09:46:11 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:46:11 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:46:11 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:46:11 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:46:11 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:46:11 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 09:47:31 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:47:31 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:47:31 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:47:31 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:47:31 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:47:31 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 09:52:07 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:52:07 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 53
+[20-Aug-2016 09:52:07 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 54
+[20-Aug-2016 09:52:07 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:52:07 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 71
+[20-Aug-2016 09:52:07 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 72
+[20-Aug-2016 10:07:30 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 73
+[20-Aug-2016 10:07:30 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 73
+[20-Aug-2016 10:07:30 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 74
+[20-Aug-2016 10:18:53 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/content/index.php on line 73
+[20-Aug-2016 10:18:53 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/content/index.php on line 73
+[20-Aug-2016 10:18:53 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/citizenb875/public_html/social_login/content/index.php on line 74
+[20-Aug-2016 10:19:43 Asia/Jakarta] PHP Warning:  mysql_pconnect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/db.php on line 7
+[20-Aug-2016 10:23:16 Asia/Jakarta] PHP Fatal error:  Call to undefined function cektipeimage() in /home/citizenb875/public_html/social_login/content/control.php on line 67
+[20-Aug-2016 10:24:42 Asia/Jakarta] PHP Fatal error:  Call to undefined function cektipeimage() in /home/citizenb875/public_html/social_login/content/control.php on line 67
+[20-Aug-2016 10:25:02 Asia/Jakarta] PHP Fatal error:  Call to undefined function cektipeimage() in /home/citizenb875/public_html/social_login/content/control.php on line 67
+[20-Aug-2016 10:26:49 Asia/Jakarta] PHP Fatal error:  Call to undefined function cektipeimage() in /home/citizenb875/public_html/social_login/content/control.php on line 67
+[20-Aug-2016 10:32:35 Asia/Jakarta] PHP Fatal error:  Call to undefined function clearJudul() in /home/citizenb875/public_html/social_login/content/control.php on line 117
+[20-Aug-2016 10:34:29 Asia/Jakarta] PHP Fatal error:  Call to undefined function clearJudul() in /home/citizenb875/public_html/social_login/content/control.php on line 117
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(../core/lib/tracker.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 6
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(../core/lib/tracker.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 6
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(): Failed opening '../core/lib/tracker.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 6
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(../core/lib/formatdate.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 8
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(../core/lib/formatdate.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 8
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(): Failed opening '../core/lib/formatdate.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 8
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(../core/lib/formattanggal.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 9
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(../core/lib/formattanggal.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 9
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(): Failed opening '../core/lib/formattanggal.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 9
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(../core/lib/format_dollar.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 10
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(../core/lib/format_dollar.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 10
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(): Failed opening '../core/lib/format_dollar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 10
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(../core/lib/pasaranjawa.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 11
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(../core/lib/pasaranjawa.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 11
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(): Failed opening '../core/lib/pasaranjawa.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 11
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(../core/lib/permalink.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 13
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(../core/lib/permalink.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 13
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(): Failed opening '../core/lib/permalink.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 13
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(../core/lib/AES/function.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 14
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(../core/lib/AES/function.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 14
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Warning:  include(): Failed opening '../core/lib/AES/function.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 14
+[20-Aug-2016 10:36:47 Asia/Jakarta] PHP Fatal error:  Call to undefined function clearJudul() in /home/citizenb875/public_html/social_login/content/control.php on line 117
+[20-Aug-2016 10:37:16 Asia/Jakarta] PHP Fatal error:  Call to undefined function clearJudul() in /home/citizenb875/public_html/social_login/content/control.php on line 117
+[20-Aug-2016 10:39:57 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'citizenb875'@'localhost' (using password: NO) in /home/citizenb875/public_html/social_login/lib/tracker.php on line 18
+[20-Aug-2016 10:39:57 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/citizenb875/public_html/social_login/lib/tracker.php on line 18
+[20-Aug-2016 10:39:57 Asia/Jakarta] PHP Fatal error:  Call to undefined function clearJudul() in /home/citizenb875/public_html/social_login/content/control.php on line 117
+[20-Aug-2016 10:44:27 Asia/Jakarta] PHP Warning:  include(includes/resize_image.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/content/control.php on line 157
+[20-Aug-2016 10:44:27 Asia/Jakarta] PHP Warning:  include(includes/resize_image.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/content/control.php on line 157
+[20-Aug-2016 10:44:27 Asia/Jakarta] PHP Warning:  include(): Failed opening 'includes/resize_image.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/content/control.php on line 157
+[20-Aug-2016 10:44:27 Asia/Jakarta] PHP Warning:  require_once(SimpleImage.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 53
+[20-Aug-2016 10:44:27 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'SimpleImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 53
+[20-Aug-2016 10:48:02 Asia/Jakarta] PHP Warning:  include(../lib/resize_image.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/content/control.php on line 157
+[20-Aug-2016 10:48:02 Asia/Jakarta] PHP Warning:  include(../lib/resize_image.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/content/control.php on line 157
+[20-Aug-2016 10:48:02 Asia/Jakarta] PHP Warning:  include(): Failed opening '../lib/resize_image.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/content/control.php on line 157
+[20-Aug-2016 10:48:02 Asia/Jakarta] PHP Warning:  require_once(SimpleImage.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 53
+[20-Aug-2016 10:48:02 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'SimpleImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 53
+[20-Aug-2016 10:49:15 Asia/Jakarta] PHP Warning:  include(../lib/resize_image.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/content/control.php on line 157
+[20-Aug-2016 10:49:15 Asia/Jakarta] PHP Warning:  include(../lib/resize_image.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/content/control.php on line 157
+[20-Aug-2016 10:49:15 Asia/Jakarta] PHP Warning:  include(): Failed opening '../lib/resize_image.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/content/control.php on line 157
+[20-Aug-2016 10:49:15 Asia/Jakarta] PHP Warning:  require_once(SimpleImage.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 53
+[20-Aug-2016 10:49:15 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'SimpleImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 53
+[20-Aug-2016 10:49:58 Asia/Jakarta] PHP Warning:  include(../lib/Resize_Image.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/content/control.php on line 157
+[20-Aug-2016 10:49:58 Asia/Jakarta] PHP Warning:  include(../lib/Resize_Image.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/content/control.php on line 157
+[20-Aug-2016 10:49:58 Asia/Jakarta] PHP Warning:  include(): Failed opening '../lib/Resize_Image.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/content/control.php on line 157
+[20-Aug-2016 10:49:58 Asia/Jakarta] PHP Warning:  require_once(SimpleImage.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 53
+[20-Aug-2016 10:49:58 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'SimpleImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 53
+[20-Aug-2016 13:29:09 Asia/Jakarta] PHP Fatal error:  Call to undefined function clearJudul() in /home/citizenb875/public_html/social_login/content/control.php on line 103
+[20-Aug-2016 13:31:04 Asia/Jakarta] PHP Warning:  include(includes/resize_image.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/content/control.php on line 125
+[20-Aug-2016 13:31:04 Asia/Jakarta] PHP Warning:  include(includes/resize_image.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/content/control.php on line 125
+[20-Aug-2016 13:31:04 Asia/Jakarta] PHP Warning:  include(): Failed opening 'includes/resize_image.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/content/control.php on line 125
+[20-Aug-2016 13:31:04 Asia/Jakarta] PHP Warning:  require_once(SimpleImage.php): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/config.php on line 53
+[20-Aug-2016 13:31:04 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'SimpleImage.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/citizenb875/public_html/social_login/config.php on line 53
+[20-Aug-2016 13:32:38 Asia/Jakarta] PHP Warning:  mkdir(): No such file or directory in /home/citizenb875/public_html/social_login/content/control.php on line 157
+[20-Aug-2016 13:32:38 Asia/Jakarta] PHP Warning:  chmod(): No such file or directory in /home/citizenb875/public_html/social_login/content/control.php on line 158
+[20-Aug-2016 13:32:38 Asia/Jakarta] PHP Warning:  imagejpeg(../../assets/posting/jembrana_266236.jpg): failed to open stream: No such file or directory in /home/citizenb875/public_html/social_login/includes/resize_image.php on line 46
+[05-Sep-2016 09:22:39 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'Facebook\FacebookSDKException' with message 'name lookup timed out' in /home/citizenb875/public_html/social_login/Facebook/HttpClients/FacebookCurlHttpClient.php:156
+Stack trace:
+#0 /home/citizenb875/public_html/social_login/Facebook/FacebookRequest.php(248): Facebook\HttpClients\FacebookCurlHttpClient->send('https://graph.f...', 'GET', Array)
+#1 /home/citizenb875/public_html/social_login/Facebook/FacebookRedirectLoginHelper.php(175): Facebook\FacebookRequest->execute()
+#2 /home/citizenb875/public_html/social_login/facebook.php(39): Facebook\FacebookRedirectLoginHelper->getSessionFromRedirect()
+#3 {main}
+  thrown in /home/citizenb875/public_html/social_login/Facebook/HttpClients/FacebookCurlHttpClient.php on line 156
+[03-Jun-2017 11:12:42 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/citizenb875/public_html/social_login/Facebook/FacebookRedirectLoginHelper.php on line 176
+[03-Jun-2017 11:12:55 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/citizenb875/public_html/social_login/Facebook/FacebookRedirectLoginHelper.php on line 176
+[02-Aug-2017 14:45:18 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/citizenb875/public_html/social_login/Facebook/FacebookRedirectLoginHelper.php on line 176
+[12-May-2018 07:45:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/citizenb875/public_html/social_login/db.php:7
+Stack trace:
+#0 /home/citizenb875/public_html/social_login/config.php(19): require_once()
+#1 /home/citizenb875/public_html/social_login/forget_password.php(1): require_once('/home/citizenb8...')
+#2 {main}
+  thrown in /home/citizenb875/public_html/social_login/db.php on line 7
+[03-May-2019 12:57:50 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 12:57:50 Asia/Jakarta] PHP Warning:  mysql_pconnect(): Access denied for user 'citizenb_bali'@'localhost' (using password: YES) in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:00:03 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:00:03 Asia/Jakarta] PHP Warning:  mysql_pconnect(): Access denied for user 'citizenb_bali'@'localhost' (using password: YES) in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:00:05 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:00:05 Asia/Jakarta] PHP Warning:  mysql_pconnect(): Access denied for user 'citizenb_bali'@'localhost' (using password: YES) in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:00:55 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:00:59 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:53:55 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:54:10 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:54:13 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:54:15 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:54:19 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:54:21 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:54:23 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:54:24 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 13:54:28 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 17:52:48 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 17:52:54 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 18:46:44 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 18:46:51 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 19:31:51 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 19:32:08 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 19:32:10 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 19:43:25 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7
+[03-May-2019 19:43:31 Asia/Jakarta] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/balp7414/public_html/taguidebook/social_login/db.php on line 7

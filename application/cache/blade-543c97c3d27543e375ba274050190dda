@@ -1,0 +1,87 @@
+a:3:{s:4:"time";i:1511487684;s:3:"ttl";i:3600;s:10:"Berita";s:3051:"@extends('layouts.dashboard')
+<?php $this->_section_start('content'); ?>
+    <h3>Tambah Data</h3>
+    <div class="container">
+        <?php echo form_open_multipart('berita/beritacontroller/adddata'); ?>
+        <div class="row">
+            <div class="col-md-2">
+                <label>Date and Time</label>
+            </div>
+            <div class="col-md-10">
+                <div class="form-group">
+                    <div class='input-group date' id='datetimepicker1'>
+                        <input type='text' class="form-control"/>
+                        <span class="input-group-addon">
+                        <span class="glyphicon glyphicon-calendar"></span>
+                    </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <label>Category</label>
+            </div>
+            <div class="col-md-10">
+                <select name="kategori">
+
+                    <option>---Pilih Kategori---</option>
+                    <option value="satu">Satu</option>
+                    <option value="dua">Dua</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <label>Title</label>
+            </div>
+            <div class="col-md-10">
+                <input name="title" type="text"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <label>Content</label>
+            </div>
+            <div class="col-md-10">
+    		<textarea name="content" id="content" rows="10" cols="80">
+
+            </textarea>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <label>Foto</label>
+            </div>
+            <div class="col-md-10">
+                <input type="file" name="foto" id="foto">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <label>Status</label>
+            </div>
+            <div class="col-md-10">
+                <input type="radio" name="status" value="aktif"> Aktif&emsp;
+                <input type="radio" name="status" value="nonaktif"> Nonaktif<br>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <label>Another Status</label>
+            </div>
+            <div class="col-md-10">
+                <input type="checkbox" name="another_status" value="show">Show&emsp;
+                <input type="checkbox" name="another_status" value="hidden">Hidden<br>
+            </div>
+        </div>
+        <div class="col-md-12 text-center">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+
+        </form>
+    </div>
+    <?php echo validation_errors(); ?>
+    <?php if (isset($result)) echo $result; ?>
+<?php $this->_section_end(); ?>
+";}

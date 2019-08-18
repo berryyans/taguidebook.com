@@ -1,0 +1,26 @@
+Kali ini, di blog tutorial ini saya mencoba menuliskan artikel tentang JQuery. Artikel-artikel yang akan saya tulis nantinya membahas seputar plugin-plugin jQuery. Dalam artikel ini, saya akan membahas plugin JQuery untuk memvalidasi form. Dengan adanya plugin ini, seseorang yang melakukan input ke dalam sebuah form HTML akan mengetahui komponen mana dari form yang harus diisi karena akan muncul peringatan otomatis bahwa ada komponen yang belum diisi atau format isian yang salah misalnya email atau URL.
+Untuk membuat validasi form dengan JQuery, pertama yang harus Anda siapkan adalah script core jQuery nya sendiri, serta script plugin validasi formnya (jquery.validate.js). Untuk mendownload kedua script, silakan mengklik masing-masing link.
+Selanjutnya kita bikin contoh formnya seperti berikut ini:
+contoh.html
+<html>
+  <head>
+   <title>jQuery Validation</title>
+   <script src="jquery.js"></script>
+   <script src="jquery.validate.js"></script>
+   <script>
+       $(document).ready(function(){
+           $("#formku").validate();
+        });
+   </script>
+
+   <style type="text/css">
+       label.error {
+           color: red; padding-left: .5em;
+       }
+   </style>
+  </head>
+   <body>
+     <form id="formku">
+       <table border="0">
+          <tr><td>Nama Anda</td><td>:</td><td><input name="nama" class="required" minlength="3" /></td></tr>
+          <tr><td>Email Anda</td><td>:</td><td><input name="email" class="re

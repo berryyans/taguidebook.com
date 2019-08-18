@@ -1,0 +1,4 @@
+[31-Mar-2015 07:08:22 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in /home/k3055690/public_html/mediacenter/includes/captcha2/captcha.php on line 2
+[31-Mar-2015 07:08:22 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in /home/k3055690/public_html/mediacenter/includes/captcha2/captcha.php on line 2
+[31-Mar-2015 07:08:23 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent in /home/k3055690/public_html/mediacenter/includes/captcha2/index.php on line 2
+[31-Mar-2015 07:08:23 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent in /home/k3055690/public_html/mediacenter/includes/captcha2/index.php on line 2
